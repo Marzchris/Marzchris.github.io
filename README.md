@@ -23,7 +23,20 @@
 
   <section id="resume">
     <h2>Resume</h2>
-    <p>Include a brief description of your experience as a MIS major, your time at Home Depot, and life insurance sales leadership role.</p>
+    <p> The Home Depot 
+Paint Department Team lead/Coach                                                                                             July 2024 – Present
+•	Fast-tracked to Team Lead in 2 months for outstanding leadership and performance
+•	Directed and mentored a team, driving top-tier customer service and product expertise
+•	Optimized inventory management and vendor coordination for seamless operations
+•	Recognized for exceptional communication, problem-solving, and customer satisfaction
+
+Davila Firm 				                                                                              November 2023 – Present 
+Team Lead & Life Insurance Sales Representative
+•	Managed a team of 3 agents, surpassing sales targets and quotas through strategic communication and client relationship management
+•	Delivered tailored insurance solutions, boosting policy enrollments by 20%
+•	Trained and mentored team members, enhancing sales skills and product expertise for elevated team performance
+•	Championed a collaborative, goal-driven culture, ensuring high client satisfaction
+ Include a brief description of your experience as a MIS major, your time at Home Depot, and life insurance sales leadership role.</p>
     <ul>
       <li><strong>Education:</strong> Major in Management Information Systems</li>
       <li><strong>Experience:</strong>
