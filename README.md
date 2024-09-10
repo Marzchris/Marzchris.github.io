@@ -60,7 +60,7 @@ Team Lead & Life Insurance Sales Representative
   <section id="contact">
     <h2>Contact Me</h2>
     <p>Email: <a href="mailto:chris.marz12927@gmail.com">chris.marz12927@gmail.com</a></p>
-    <p>LinkedIn: <a href="www.linkedin.com/in/christian-martinezuh" target="_blank">LinkedIn Profile</a></p>
+    <p>LinkedIn: <a href="http://linkedin.com/in/christian-martinezuh" target="_blank">LinkedIn Profile</a></p>
   </section>
 
   <footer>
