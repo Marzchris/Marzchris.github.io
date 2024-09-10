@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  Christian Antonio Martinez - Managment Information System Portfolio
+  Managment Information System Portfolio
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
+    <h1>Christian Martinez</h1>
     <p>Management Information Systems Major | Leadership | Data Analytics</p>
   </header>
 
@@ -64,7 +64,7 @@ Team Lead & Life Insurance Sales Representative
   </section>
 
   <footer>
-    <p>© 2024 Your Name. All rights reserved.</p>
+    <p>© 2024 Christian Martinez. All rights reserved.</p>
   </footer>
 </body>
 </html>
