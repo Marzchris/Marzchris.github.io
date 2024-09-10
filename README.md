@@ -59,8 +59,8 @@ Team Lead & Life Insurance Sales Representative
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/your-profile" target="_blank">Your LinkedIn Profile</a></p>
+    <p>Email: <a href="mailto:chris.marz12927@gmail.com">your.email@example.com</a></p>
+    <p>LinkedIn: <a href="www.linkedin.com/in/christian-martinezuh" target="_blank">Your LinkedIn Profile</a></p>
   </section>
 
   <footer>
