@@ -52,7 +52,7 @@ Team Lead & Life Insurance Sales Representative
     <h2>Projects</h2>
     <p>Here are some of the projects I’ve worked on:</p>
     <ul>
-      <li><a href="projects/clearview-ai.html">Clearview AI Analysis</a></li>
+      <li><a href="https://uofh-my.sharepoint.com/:p:/r/personal/camart59_cougarnet_uh_edu/Documents/Ethics%20case.pptx?d=w155088275d304c108fd1b4d7dd1abb9c&csf=1&web=1&e=dWzb0r">Clearview AI Analysis</a></li>
       <!-- Add more projects here -->
     </ul>
   </section>
