@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clearview AI Analysis</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>Clearview AI Analysis</h1>
+    <p>Exploring the pros and cons of AI with a focus on Clearview AI.</p>
+  </header>
+
+  <section>
+    <h2>Project Overview</h2>
+    <p>In this project, we conducted an in-depth analysis of Clearview AI, assessing its potential benefits and drawbacks. The final solution provided a positive outlook on the future of AI. The project was presented to corporate judges and involved significant research and presentation design.</p>
+  </section>
+
+  <footer>
+    <p><a href="../index.html">Back to Home</a></p>
+  </footer>
+</body>
+</html>
