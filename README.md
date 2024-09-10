@@ -1,4 +1,4 @@
-# Marzchris.github.io<!DOCTYPE html>
+# Welcome !
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -68,3 +68,28 @@ Team Lead & Life Insurance Sales Representative
   </footer>
 </body>
 </html>
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049; /* Change background on hover */
+  transform: scale(1.1);     /* Slightly grow the button */
+}
+a {
+  color: #1e90ff;
+  text-decoration: none;
+  transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+a:hover {
+  color: #ff4500;
+  border-bottom: 2px solid #ff4500; /* Underline effect on hover */
+}
+<div class="grow-shrink">Hover over me!</div>
