@@ -55,7 +55,7 @@
 
     <div class="entry">
       <figure>
-        <img src="images/print-01.jpg" alt="Helianthus" />
+        <img src="01HN6ZFTJ06279CHTVAC80JXZP-low-res-branded-.jpeg" alt="Helianthus" />
         <figcaption>Helianthus</figcaption>
       </figure>
     </div>
