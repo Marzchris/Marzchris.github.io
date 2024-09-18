@@ -50,7 +50,7 @@
   <div class="wrapper">
     <header>
       <img src="IMG_0271.JPG" alt="Galerie Botanique" width="456" height="122" />
-      <p>Here is a selection of antique botanical prints held in our collection.</p>
+      <p>Here are some pictures of my beutiful pictures of my girlfriend.</p>
     </header>
 
     <div class="entry">
