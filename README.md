@@ -62,7 +62,7 @@
 
     <div class="entry">
       <figure>
-        <img src="images/print-02.jpg" alt="Passiflora" />
+        <img src="IMG_4345.JPG" alt="Passiflora" />
         <figcaption>Passiflora</figcaption>
       </figure>
     </div>
