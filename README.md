@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<h1><em>For My Beautiful Girlfriend!</em></h1>
 <html>
 <head>
   <title>Images</title>
