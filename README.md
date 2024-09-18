@@ -9,28 +9,29 @@
       background-image: url("images/backdrop.gif");
       font-family: Georgia, "Times New Roman", serif;
       text-align: center;
+      margin: 0;
+      padding: 0;
     }
     .wrapper {
       width: 720px;
-      margin: 0px auto;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr); /* Create a grid with 3 equal columns */
+      gap: 10px; /* Space between grid items */
     }
     header {
       margin: 40px 0px 20px 0px;
     }
     .entry {
-      width: 220px;
-      float: left;
-      margin: 10px;
-      height: auto; /* Adjust height to auto */
       background-image: url("images/shadow.png");
       background-repeat: no-repeat;
       background-position: bottom;
+      overflow: hidden; /* Ensure no content overflows */
     }
     figure {
       display: block;
-      width: 100%; /* Make figure take up the full width of its container */
       background-color: #e7e3d8;
-      margin: 0px;
+      margin: 0;
       padding: 9px;
       text-align: left;
     }
@@ -96,4 +97,6 @@
     </div>
   </div>
 </body>
+</html>
+
 </html>
