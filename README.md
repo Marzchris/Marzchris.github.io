@@ -36,8 +36,8 @@
       text-align: left;
     }
     figure img {
-      width: 300px;
-      height: 250px;
+      width: 380px;
+      height: 2900px;
       border: 1px solid #d6d6d6;
     }
     figcaption {
