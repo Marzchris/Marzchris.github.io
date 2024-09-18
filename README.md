@@ -83,7 +83,7 @@
 
     <div class="entry">
       <figure>
-        <img src="images/print-05.jpg" alt="Ficus" />
+        <img src="IMG_5036.jpeg" alt="Ficus" />
         <figcaption>Ficus</figcaption>
       </figure>
     </div>
