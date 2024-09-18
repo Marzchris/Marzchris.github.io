@@ -69,7 +69,7 @@
 
     <div class="entry">
       <figure>
-        <img src="images/print-03.jpg" alt="Nyctocalos" />
+        <img src="IMG_4897.jpeg" alt="Nyctocalos" />
         <figcaption>Nyctocalos</figcaption>
       </figure>
     </div>
