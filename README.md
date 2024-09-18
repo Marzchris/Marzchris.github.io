@@ -1,4 +1,4 @@
-<h1><em>For My Beautiful Girlfriend!</em></h1>
+<!DOCTYPE html>
 <html>
 <head>
   <title>Images</title>
@@ -21,24 +21,24 @@
       width: 220px;
       float: left;
       margin: 10px;
-      height: 198px;
+      height: auto; /* Adjust height to auto */
       background-image: url("images/shadow.png");
       background-repeat: no-repeat;
       background-position: bottom;
     }
     figure {
       display: block;
-      width: 202px;
-      height: 170px;
+      width: 100%; /* Make figure take up the full width of its container */
       background-color: #e7e3d8;
       margin: 0px;
       padding: 9px;
       text-align: left;
     }
     figure img {
-      width: 380px;
-      height: 2900px;
+      width: 100%; /* Scale the image to fit the figure width */
+      height: auto; /* Maintain the aspect ratio */
       border: 1px solid #d6d6d6;
+      object-fit: cover; /* Cover the area while maintaining aspect ratio */
     }
     figcaption {
       background-image: url("images/icon.png");
@@ -50,7 +50,7 @@
   <div class="wrapper">
     <header>
       <img src="IMG_0271.JPG" alt="Galerie Botanique" width="456" height="122" />
-      <p>Here are some pictures of my beutiful pictures of my girlfriend.</p>
+      <p>Here are some pictures of my beautiful girlfriend.</p>
     </header>
 
     <div class="entry">
@@ -97,4 +97,3 @@
   </div>
 </body>
 </html>
-
