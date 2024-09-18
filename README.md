@@ -15,12 +15,14 @@
     .wrapper {
       width: 720px;
       margin: 0 auto;
-      display: grid;
-      grid-template-columns: repeat(3, 1fr); /* Create a grid with 3 equal columns */
-      gap: 10px; /* Space between grid items */
     }
     header {
       margin: 40px 0px 20px 0px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr); /* Create a grid with 3 equal columns */
+      gap: 10px; /* Space between grid items */
     }
     .entry {
       background-image: url("images/shadow.png");
@@ -37,7 +39,7 @@
     }
     figure img {
       width: 100%; /* Scale the image to fit the figure width */
-      height: auto; /* Maintain the aspect ratio */
+      height: auto; /* Maintain aspect ratio */
       border: 1px solid #d6d6d6;
       object-fit: cover; /* Cover the area while maintaining aspect ratio */
     }
@@ -54,49 +56,50 @@
       <p>Here are some pictures of my beautiful girlfriend.</p>
     </header>
 
-    <div class="entry">
-      <figure>
-        <img src="01HN6ZFTJ06279CHTVAC80JXZP-low-res-branded-.jpeg" alt="Helianthus" />
-        <figcaption>Helianthus</figcaption>
-      </figure>
-    </div>
+    <div class="grid">
+      <div class="entry">
+        <figure>
+          <img src="01HN6ZFTJ06279CHTVAC80JXZP-low-res-branded-.jpeg" alt="Helianthus" />
+          <figcaption>Helianthus</figcaption>
+        </figure>
+      </div>
 
-    <div class="entry">
-      <figure>
-        <img src="IMG_4345.JPG" alt="Passiflora" />
-        <figcaption>Passiflora</figcaption>
-      </figure>
-    </div>
+      <div class="entry">
+        <figure>
+          <img src="IMG_4345.JPG" alt="Passiflora" />
+          <figcaption>Passiflora</figcaption>
+        </figure>
+      </div>
 
-    <div class="entry">
-      <figure>
-        <img src="IMG_4897.jpeg" alt="Nyctocalos" />
-        <figcaption>Nyctocalos</figcaption>
-      </figure>
-    </div>
+      <div class="entry">
+        <figure>
+          <img src="IMG_4897.jpeg" alt="Nyctocalos" />
+          <figcaption>Nyctocalos</figcaption>
+        </figure>
+      </div>
 
-    <div class="entry">
-      <figure>
-        <img src="IMG_5018.jpeg" alt="Polianthes" />
-        <figcaption>Polianthes</figcaption>
-      </figure>
-    </div>
+      <div class="entry">
+        <figure>
+          <img src="IMG_5018.jpeg" alt="Polianthes" />
+          <figcaption>Polianthes</figcaption>
+        </figure>
+      </div>
 
-    <div class="entry">
-      <figure>
-        <img src="IMG_5036.jpeg" alt="Ficus" />
-        <figcaption>Ficus</figcaption>
-      </figure>
-    </div>
+      <div class="entry">
+        <figure>
+          <img src="IMG_5036.jpeg" alt="Ficus" />
+          <figcaption>Ficus</figcaption>
+        </figure>
+      </div>
 
-    <div class="entry">
-      <figure>
-        <img src="IMG_6553.jpeg" alt="Dendrobium" />
-        <figcaption>Dendrobium</figcaption>
-      </figure>
+      <div class="entry">
+        <figure>
+          <img src="IMG_6553.jpeg" alt="Dendrobium" />
+          <figcaption>Dendrobium</figcaption>
+        </figure>
+      </div>
     </div>
   </div>
 </body>
 </html>
 
-</html>
