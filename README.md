@@ -49,7 +49,7 @@
 <body>
   <div class="wrapper">
     <header>
-      <img src="images/title.gif" alt="Galerie Botanique" width="456" height="122" />
+      <img src="IMG_0271.JPG" alt="Galerie Botanique" width="456" height="122" />
       <p>Here is a selection of antique botanical prints held in our collection.</p>
     </header>
 
