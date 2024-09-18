@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Images</title>
@@ -59,43 +58,43 @@
     <div class="grid">
       <div class="entry">
         <figure>
-          <img src="01HN6ZFTJ06279CHTVAC80JXZP-low-res-branded-.jpeg" alt="Helianthus" />
-          <figcaption>Helianthus</figcaption>
+          <img src="01HN6ZFTJ06279CHTVAC80JXZP-low-res-branded-.jpeg" alt="Your so pretty" />
+          <figcaption>Your so pretty!</figcaption>
         </figure>
       </div>
 
       <div class="entry">
         <figure>
-          <img src="IMG_4345.JPG" alt="Passiflora" />
-          <figcaption>Passiflora</figcaption>
+          <img src="IMG_4345.JPG" alt="I love you!" />
+          <figcaption>I love you!</figcaption>
         </figure>
       </div>
 
       <div class="entry">
         <figure>
-          <img src="IMG_4897.jpeg" alt="Nyctocalos" />
-          <figcaption>Nyctocalos</figcaption>
+          <img src="IMG_4897.jpeg" alt="Your such a cuite!" />
+          <figcaption>Your such a cuite!</figcaption>
         </figure>
       </div>
 
       <div class="entry">
         <figure>
-          <img src="IMG_5018.jpeg" alt="Polianthes" />
-          <figcaption>Polianthes</figcaption>
+          <img src="IMG_5018.jpeg" alt="Baddie!!" />
+          <figcaption>Baddie!!</figcaption>
         </figure>
       </div>
 
       <div class="entry">
         <figure>
-          <img src="IMG_5036.jpeg" alt="Ficus" />
-          <figcaption>Ficus</figcaption>
+          <img src="IMG_5036.jpeg" alt="I just want to eat you up!!" />
+          <figcaption>I just want to eat you up!!</figcaption>
         </figure>
       </div>
 
       <div class="entry">
         <figure>
-          <img src="IMG_6553.jpeg" alt="Dendrobium" />
-          <figcaption>Dendrobium</figcaption>
+          <img src="IMG_6553.jpeg" alt="Wild Child!" />
+          <figcaption>Wild Child!</figcaption>
         </figure>
       </div>
     </div>
