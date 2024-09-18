@@ -76,7 +76,7 @@
 
     <div class="entry">
       <figure>
-        <img src="images/print-04.jpg" alt="Polianthes" />
+        <img src="IMG_5018.jpeg" alt="Polianthes" />
         <figcaption>Polianthes</figcaption>
       </figure>
     </div>
