@@ -36,8 +36,8 @@
       text-align: left;
     }
     figure img {
-      width: 200px;
-      height: 150px;
+      width: 300px;
+      height: 250px;
       border: 1px solid #d6d6d6;
     }
     figcaption {
@@ -90,7 +90,7 @@
 
     <div class="entry">
       <figure>
-        <img src="images/print-06.jpg" alt="Dendrobium" />
+        <img src="IMG_6553.jpeg" alt="Dendrobium" />
         <figcaption>Dendrobium</figcaption>
       </figure>
     </div>
